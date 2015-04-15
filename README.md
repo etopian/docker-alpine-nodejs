@@ -1,6 +1,6 @@
 # Alpine Node.js
 
-Alpine Node.js is a docker image based in Alpine Linux using a Dockerfile
+Alpine Node.js is a docker image based on Alpine Linux using a Dockerfile
 similar to the library [nodejs](https://github.com/dockerfile/nodejs/blob/master/Dockerfile).
 
 This image is [gliderlabs/alpine](https://github.com/gliderlabs/docker-alpine) image.
